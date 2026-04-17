@@ -1,0 +1,6 @@
+security,sector,weight,return
+AAPL,Technology,0.25,0.08
+MSFT,Technology,0.20,0.06
+JPM,Financials,0.15,0.03
+XOM,Energy,0.10,0.05
+PFE,Healthcare,0.30,0.02
