@@ -8,7 +8,7 @@ public class DatabaseReader {
 
     private static final String URL      = "jdbc:postgresql://localhost:5432/attribution_db";
     private static final String USER     = "postgres";
-    private static final String PASSWORD = "1Sharma2"; // replace with your postgres password
+    private static final String PASSWORD = "************";
 
     private Connection connect() throws SQLException {
         return DriverManager.getConnection(URL, USER, PASSWORD);
